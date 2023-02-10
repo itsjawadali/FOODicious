@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "name": " Jawad",
+      "email": "jawwad865@gmail.com",
+      "age": "23",
+      "id": 1
+    },
+    {
+      "name": "ali",
+      "email": "jawwad865@gmail.com",
+      "age": "34",
+      "id": 2
+    }
+  ],
+  "todos": [
+    {
+      "task": "sing",
+      "id": 1
+    },
+    {
+      "task": "drive",
+      "id": 2
+    }
+  ]
+}
